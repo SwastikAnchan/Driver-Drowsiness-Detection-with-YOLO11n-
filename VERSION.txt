@@ -1,0 +1,6 @@
+Driver Monitoring System - Hardened Build v1.0
+
+Default detector: Ultralytics YOLO11n
+Alert audio: voice only; no beep code
+Display: one OpenCV window, fullscreen by default
+Python target: 3.12

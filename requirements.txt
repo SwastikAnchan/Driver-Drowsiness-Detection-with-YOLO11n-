@@ -1,0 +1,5 @@
+opencv-python==4.10.0.84
+numpy==1.26.4
+mediapipe==0.10.35
+ultralytics==8.3.196
+pyttsx3==2.99
